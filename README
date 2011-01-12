@@ -25,10 +25,8 @@ More info can be found here http://www.larsgeorge.com/2009/05/hbase-schema-manag
 How to setup and run this maven enabled application?
 
 1. git clone git://github.com/jkoenig/hbase-schema-manager.git
-2. Download hbase-0.89.20100924.jar from http://archive.apache.org/dist/hbase/hbase-0.89.20100924/hbase-0.89.20100924/hbase-0.89.20100924.jar
-3. mvn install:install-file -DgroupId=org.apache.hadoop -DartifactId=hbase -Dversion=0.89.20100924 -Dpackaging=jar -Dfile=<your-path-to-hbase-0.89.20100924.jar>
-4. mvn package
-5. Go to target and find hbase-schema-manager-1.0.0.jar
+2. mvn package
+3. Go to target and find hbase-schema-manager-1.0.0.jar
 
 How to use this application for further development with Eclipse?
 
