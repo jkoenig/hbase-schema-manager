@@ -5,7 +5,7 @@
 	<artifactId>hbase-schema-manager</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0.0</version>
-	<name>Hbase Schema Manager</name>
+	<name>Hbase schema manager to populate a given schema</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
